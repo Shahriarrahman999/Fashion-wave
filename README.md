@@ -1,10 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>FashionWave</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header>
@@ -22,12 +22,12 @@
         <section id="home">
             <h2>Welcome to FashionWave</h2>
             <p>Your ultimate destination for trendy fashion.</p>
+            <img src="images/home.jpg" alt="FashionWave Home" width="600" height="400">
         </section>
         <section id="about">
             <h2>About Us</h2>
             <p>FashionWave is dedicated to bringing you the latest fashion trends.</p>
-            <img src=![1739293757_L_8](https://github.com/user-attachments/assets/30fa5e0a-08d9-4b08-8078-9e1b31a7557d)
- alt="Contact Us" width="600" height="400">
+            <img src="images/about.jpg" alt="About FashionWave" width="600" height="400">
         </section>
         <section id="shop">
             <h2>Shop</h2>
@@ -37,6 +37,7 @@
         <section id="contact">
             <h2>Contact Us</h2>
             <p>Get in touch with us for any inquiries.</p>
+            <img src="images/contact.jpg" alt="Contact Us" width="600" height="400">
         </section>
     </main>
     <footer>
