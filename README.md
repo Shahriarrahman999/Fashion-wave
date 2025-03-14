@@ -27,6 +27,8 @@
         <section id="about">
             <h2>About Us</h2>
             <p>FashionWave is dedicated to bringing you the latest fashion trends.</p>
+
+            <img src="images/contact.jpg" alt="Contact Us" width="600" height="400">
         </section>
         <section id="shop">
             <h2>Shop</h2>
