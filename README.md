@@ -32,6 +32,9 @@
             <h2>Shop</h2>
             <p>Explore our collection of stylish apparel and accessories.</p>
             <img src="images/shop.jpg" alt="Shop Collection" width="600" height="400">
+
+            <![Uploading image.png…]()>
+
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
