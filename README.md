@@ -27,12 +27,13 @@
         <section id="about">
             <h2>About Us</h2>
             <p>FashionWave is dedicated to bringing you the latest fashion trends.</p>
-
-            <img src="images/contact.jpg" alt="Contact Us" width="600" height="400">
+            <img src=![1739293757_L_8](https://github.com/user-attachments/assets/30fa5e0a-08d9-4b08-8078-9e1b31a7557d)
+ alt="Contact Us" width="600" height="400">
         </section>
         <section id="shop">
             <h2>Shop</h2>
             <p>Explore our collection of stylish apparel and accessories.</p>
+            <img src="images/shop.jpg" alt="Shop Collection" width="600" height="400">
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
